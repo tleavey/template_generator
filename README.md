@@ -1,5 +1,6 @@
-# template_generator
-Generate project scaffolding based off templates.  
+# Template Generator
+##Generate project scaffolding based off templates.
+
 Project is based off the code from this article:  
 https://medium.com/northcoders/creating-a-project-generator-with-node-29e13b3cd309
 
@@ -10,7 +11,7 @@ https://medium.com/northcoders/creating-a-project-generator-with-node-29e13b3cd3
 1. Choose which template you wish to scaffold out
 1. Answer prompts
 
-# Add your own template/project scaffolding
+# Adding your own template/project scaffolding
 1. Go into the `templates/` directory
 1. Add your own file structure
 1. Generator will copy the file structure
