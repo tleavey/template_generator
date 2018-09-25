@@ -7,3 +7,8 @@ Generate project scaffolding based off templates
 1. type and enter `generator` on the command line (project will be created in the directory you're in when you enter this command)
 1. Choose which template you wish to scaffold out
 1. Answer prompts
+
+# Add your own template/project scaffolding
+1. Go into the `templates/` directory
+1. Add your own file structure
+1. Generator will copy the file structure
