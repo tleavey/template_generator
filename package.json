@@ -1,0 +1,17 @@
+{
+  "name": "project_generator",
+  "version": "1.0.0",
+  "description": "Generate project scaffolding",
+  "main": "index.js",
+  "scripts": {
+    "test": "generate"
+  },
+  "author": "Tim Leavey <timothy.leavey@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  },
+  "bin": {
+    "generate": "./index.js"
+  }
+}
